@@ -70,4 +70,4 @@ function UploadProductPage() {
 
 export default UploadProductPage;
 
-//복습2
+//복습3
